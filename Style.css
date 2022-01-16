@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.text-block{
+    background-color:   aquamarine;
+    display: block;
+    width: 200px;
+    height: 76px;
+    overflow: hidden;
+    font-size: 50px;
+}
+
+.text-border{
+    border: 1px solid red;
+    padding: 1px;
+}
+
+.text-style-h1 {
+    font-size: 50px;
+    color: black
+    ;
+}
